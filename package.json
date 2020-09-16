@@ -1,0 +1,23 @@
+{
+  "name": "cdn",
+  "version": "1.0.0",
+  "description": "caohongyuan",
+  "main": "index.js",
+  "dependencies": {
+    "core-js": "^3.6.1",
+    "element-ui": "^2.13.2",
+    "font-awesome": "^4.7.0",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "",
+    "url": ""
+  }
+}
